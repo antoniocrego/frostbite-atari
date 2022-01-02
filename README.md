@@ -28,8 +28,10 @@ O jogador tem como objetivo construir o seu iglu para progredir de nível, ganha
 
 1. carregar os níveis
 1. desenhar a matriz do nível
-1. configurar o movimento dos inimigos e dos blocos de gelo
-2. definir um sistema de pontuação
-3. verificar se o iglu está construído e permitir avançar
+2. configurar o movimento dos blocos de gelo
+3. configurar o movimento do jogador e a interação jogador-bloco
+4. configurar o movimento dos inimigos
+5. definir um sistema de pontuação
+6. verificar se o iglu está construído e permitir avançar
 
 - Atualizado a última vez em 02/01/2022
