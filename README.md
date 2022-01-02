@@ -9,8 +9,6 @@ A clone of the Frostbite game for the Atari.
 
 1. Criar um clone do clássico Frostbite em Pygame...
 
-2. Em alternativa... do clássico x em Pygame.
-
 ### Repositório de código
 
 ### Descrição
