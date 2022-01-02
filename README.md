@@ -15,9 +15,8 @@ A clone of the Frostbite game for the Atari.
 
 ### Descrição
 
-*---É um jogo de puzzle em que o objetivo do jogo é empurrar caixotes para um sítio indicado. 
-Para empurrar o caixote é preciso ir ao outro lado empurrá-lo. 
-Ou seja, se ele ficar junto à parede, a pessoa precisa de reiniciar o jogo. Estamos a utilizar os níveis do XSokoban.---*
+*---Neste jogo, o jogador tem de saltar entre blocos de gelo que movimentam-se em correntes diferentes, evitando criaturas marinhas e ursos polares.
+O jogador tem como objetivo construir o seu iglu para progredir de nível, ganhado mais pontos por ser veloz.---*
 
 ### UI
 
