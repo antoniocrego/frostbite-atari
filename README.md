@@ -37,4 +37,4 @@ O jogador tem como objetivo construir o seu iglu para progredir de nível, ganha
 5. definir um sistema de pontuação
 6. verificar se o iglu está construído e permitir avançar
 
-- Atualizado a última vez em 02/01/2022
+- Atualizado a última vez em 22/01/2022
