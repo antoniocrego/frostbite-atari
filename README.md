@@ -18,7 +18,7 @@ O jogador tem como objetivo construir o seu iglu para progredir de nível, ganha
 
 ### UI
 
-![UI]![image](https://user-images.githubusercontent.com/93994486/150644500-84b78340-02c8-4ff8-b0f1-c495327b15f2.png)
+![image](https://user-images.githubusercontent.com/93994486/150644500-84b78340-02c8-4ff8-b0f1-c495327b15f2.png)
 ![image](https://user-images.githubusercontent.com/93994486/150644513-604acbc9-6973-481e-8860-5950cae48a3f.png)
 
 
